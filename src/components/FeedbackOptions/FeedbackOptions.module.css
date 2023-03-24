@@ -5,7 +5,8 @@
 .feedbackBtn {
   align-items: center;
   background-color: #fff;
-  border: 2px solid #000;
+  border: 2px solid #827d7d;
+  box-shadow: 3px 3px 5px #827d7d;
   border-radius: 7px;
   box-sizing: border-box;
   color: #000;
